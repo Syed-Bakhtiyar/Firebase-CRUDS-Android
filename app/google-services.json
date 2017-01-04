@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666017472857",
+    "firebase_url": "https://cruds-2d1eb.firebaseio.com",
+    "project_id": "cruds-2d1eb",
+    "storage_bucket": "cruds-2d1eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666017472857:android:c323b4635f2cfe8b",
+        "android_client_info": {
+          "package_name": "com.example.bakhtiyar.simplecrudsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666017472857-fm8i8abhtmfuqrp1hnph9304vcfvupbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bakhtiyar.simplecrudsapp",
+            "certificate_hash": "703945673E8F3AC0EDB9C818D7F48F749A258C84"
+          }
+        },
+        {
+          "client_id": "666017472857-2ktrq1botvs46dpk4fjd7hb4tjg4d0lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTntgRXgcNcsAtY6bjgm1IRqDb84UlVyY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666017472857-2ktrq1botvs46dpk4fjd7hb4tjg4d0lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
