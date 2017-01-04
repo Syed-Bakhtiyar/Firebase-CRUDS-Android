@@ -30,6 +30,7 @@
                 android:layout_margin="8dp"
                 android:gravity="center"
                 android:hint="Enter Age"
+                android:inputType="number"
                 android:textSize="25sp" />
 
             <EditText
@@ -48,6 +49,7 @@
                 android:layout_margin="8dp"
                 android:gravity="center"
                 android:hint="Enter Roll"
+                android:inputType="number"
                 android:textSize="25sp" />
 
             <Button
